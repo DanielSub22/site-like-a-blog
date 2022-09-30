@@ -1,0 +1,38 @@
+body{
+    background-color: #fffafa;
+    
+    
+}
+.data{
+    font-family:'Roboto', sans-serif;
+    color: #008080;
+    font-weight: bold;
+    font-size: large;
+    
+    
+}
+
+.publicacoes{
+    font-family:'Montserrat', sans-serif;
+    font-weight: bold;
+    font-size: large;
+     
+}
+.texto{
+    font-family:'Open Sans', sans-serif;
+    font-size: large;
+    font-weight: bold;
+    
+    
+}
+.data, .publicacoes, .texto{
+    width: 70%;
+    height: 100%;
+    margin: 0px auto 0px auto;
+    font-weight: bold;
+    
+}
+hr{
+    width: 70%;
+    
+}
